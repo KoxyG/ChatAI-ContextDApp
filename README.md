@@ -50,3 +50,4 @@ To learn more about Ceramic please visit the following links
 Credit to [ChatBase](https://github.com/notrab/chatbase) for an awesome template to work with.
 
 
+# ChatAI-ContextDApp
